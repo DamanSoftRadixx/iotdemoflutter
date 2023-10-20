@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809927899811",
+    "project_id": "iotdemoflutter",
+    "storage_bucket": "iotdemoflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809927899811:android:8ec071f5a6348eee441d16",
+        "android_client_info": {
+          "package_name": "com.daman.iotdemoflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLA6nJKqR9dGbSpK17Fl3L_y-qHaeF4b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
